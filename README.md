@@ -1,2 +1,2 @@
 # practica_github
-Katia Susa
+Katia Susa Peñate
